@@ -84,14 +84,23 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
 * Dual-engine mining
 
     Dual-engine mining is a 30-day liquidity product launched by GBank, which refers to the digital asset USDT that users provide DGE with 30-day liquidity in one direction and can obtain tokens of two kinds of digital assets at the same time, the tokens of this digital asset are DGE and USDT. DGE is the reward for users to participate in DGE30-day liquidity mining, and USDT is the monthly dividend of GBank’s real assets. Dual-engine mining products are launched every month, with a closed period of 30 days. The shares of each period are fixed, and the return on investment (ROI) is settled on a daily basis. USDT dividend calculation formula and DGE ore income calculation formula are as follows:
-Dividend income = amount of liquidity provided (USDT)/Total amount of open liquidity in the current period (USDT)* n/365 * dividend in the current period;
+
+    Dividend income = amount of liquidity provided (USDT)/Total amount of open liquidity in the current period (USDT)* n/365 * dividend in the current period;
     
     For example, if a dividend of 20000 USDT is provided in the current dividend pool, the total liquidity opened in the current period is 135,000USDT, and the expected annual return rate is about 15%, A user provided 10,000 USDT liquidity on the first day. Then the bonus of USDT that it can obtain after the 30-day (n) period is:
+    
     30-day USDT bonus for a user = 10000/135,000*30/365*20000 ≈ 123.46 USDT;
+    
     Because DGE’s mine pool adopts the elastic supply mechanism, that is, the supply of mine pool is proportional to the amount of lock-in of liquidity. That is to say, each flow input will generate 50% of the flow into ore and put it into the mine pool. However, the remaining amount of ore in the mine pool will remain unchanged for each reduction or zero increase of the flow.
+    
     Mine Pool Supply S(MiningPool) = Σ(SN) * 50% + S(0);
+    
     Σ(SN) Refers to the total number of DGE transactions generated on the current day.,S(0)Refers to the initial mining pool);
+    
     Mining earnings = S(invest) / S(liquidity) * S(MiningPool);
+    
     Settlement by day = n / 365 * {S(invest) / S(liquidity) * S(MiningPool)};
+    
     Assume that a user provides one-way liquidity of US $10,000, the total amount of lock-up is US $5 million, and the remaining amount of ore in the mine pool is 1 million, and the daily settlement income, the user can get 5.4795DGE per day.
+    
     At the same time, the user will also receive 123.46USDT, therefore, this mining mode is called “dual-engine” mining.
