@@ -1,6 +1,6 @@
 # DGEFI（Distributed Green Energy Finance Protocol）
 # DGEFI target
-Becomes the first green digital encryption Bank based on blockchain technology, providing support for global distributed green energy entities
+To Become the first green digital encryption Bank based on blockchain technology, and provide supporting for global distributed green energy entities
 # DGEFI official website
 https://www.dgefi.com/; https://www.dgefi.finance/
 # DGEFI mining entrance
