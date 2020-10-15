@@ -114,8 +114,8 @@ Rebases is carried out according to the growth range of specific DGE’s net val
 1 NV≈ 0.000333 ETH, assuming 1 ETH = 3000 CNY, then 1 NV≈ 1 CNY, when the market price has been running for 12 hours, the net value of DGE becomes 1 NV≈ 1.3 CNY, that is to say, the net value of DGE increases by 30% within 12 hours, which triggers the Rebase mechanism. According to the initial circulation of 100W tokens in the DGE pool, this Rebase will generate 10% increment, that is, 100,000 DGE tokens, each coin-holding address will automatically receive 10% compensation for the amount of coins held.
 
     Similarly, when the net value of DGE decreases by 30% within 12 hours, the Rebase mechanism is also triggered, which will reduce the supply by 10%.
-For example, now the total amount of the DGE tokens is 110W in the pool, and the net value of DGE is from 1 NV= 1.3 CNY, and after 12 hours of market operation, its net value dropped to 1 NV= 0.91 CNY, then the rebase mechanism is triggered also, that is, the total market supply is reduced by 10%. That is to say, from 110W DGE tokens dropped to 990,000 DGE tokens. This is, due to the decrease of supply, its intrinsic value has increased.
-    
+For example, now the total amount of the DGE tokens is 110W in the pool, and the net value of DGE is from 1 NV= 1.3 CNY, and after 12 hours of market operation, its net value dropped to 1 NV= 0.91 CNY, then the rebase mechanism is triggered also, that is, the total market supply is reduced by 10%. That is to say, from total supply of 110W DGE tokens dropped to 990,000 DGE tokens. This is, due to the decrease of supply, its intrinsic value has increased.
+
     The formula of flexible supply inflation: (1+10%)^n * Total remaining amount of initial tokens;
     (n refers to the number of Rebase inflation). 
     Flexible supply deflation formula: (1-10%)^n * Total remaining amount of initial tokens;
