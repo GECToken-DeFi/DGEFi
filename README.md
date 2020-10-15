@@ -51,18 +51,17 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
            
 * Mining pool design
    The mine pool of DGE also adopts the elastic supply mechanism, that is, the supply of mine pool is proportional to the amount of lock-in of liquidity. That is to say, each flow input will generate 50% of the flow into ore and put it into the mine pool. However, the remaining amount of ore in the mine pool will remain unchanged for each reduction or zero increase of the flow. The purpose of this design is to ensure that DGE will not depreciate excessively.
-Mine Pool Supply S(MiningPool) = Σ(SN) * 50%)+ S(0)
-Σ(SN) Refers to the total amount of the forward purchase transaction DGE on that day, S(0)Refers to the initial mining pool.
-Mining earnings = S(invest)/S(liquidity) * S(MiningPool)
-The mining revenue of DGE mining pool is settled on a daily basis, which is affected by several important factors. 
-F{S(MiningPool), S(liquidity), P(DGE)},P(DGE) is the price of the immediate DGE, then : 
-Daily mining earnings = n / 365 * {S(invest)/S(liquidity) * S(MiningPool)}；
-
-Annual income of mining: F= S(MiningPool) / S(liquidity) * P(DGE)；
-Initial mining pool is set to: 50000 DGE
+    Mine Pool Supply S(MiningPool) = Σ(SN) * 50%)+ S(0)
+    Σ(SN) Refers to the total amount of the forward purchase transaction DGE on that day, S(0)Refers to the initial mining pool.
+    Mining earnings = S(invest)/S(liquidity) * S(MiningPool)
+    The mining revenue of DGE mining pool is settled on a daily basis, which is affected by several important factors. 
+    F{S(MiningPool), S(liquidity), P(DGE)},P(DGE) is the price of the immediate DGE, then : 
+    Daily mining earnings = n / 365 * {S(invest)/S(liquidity) * S(MiningPool)}；
+    Annual income of mining: F= S(MiningPool) / S(liquidity) * P(DGE)；
+    Initial mining pool is set to: 50000 DGE
 
 * Design to ecological pool
-The ecological transaction pool will be gradually established. It is expected that transaction pairs will be set up in Uniswap DEX and Sushiswap DEX respectively. After that, transaction pairs such as HT and DAI will be activated one after another. And will gradually expand to ecological communities such as Defis and Polkadot.
+    The ecological transaction pool will be gradually established. It is expected that transaction pairs will be set up in Uniswap DEX and Sushiswap DEX respectively. After that, transaction pairs such as HT and DAI will be activated one after another. And will gradually expand to ecological communities such as Defis and Polkadot.
 
 * Advantages of DGE
 ~ Supported by underlying physical assets, the benefits are more real and stable.
