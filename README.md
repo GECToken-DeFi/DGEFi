@@ -76,6 +76,8 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
 * Advantages of DGE
 
     ~ Supported by underlying physical assets, the benefits are more real and stable.
-~ Flexible supply system, no team reservation, no pre-mining. Follow the principle of more work and more gain to ensure the benefits of mining.
+    
+~ Flexible supply system, no team reservation, no pre-mining. Follow the principle of more work and more gain to ensure the benefits of mining
+
 ~ Complete on-chain governance, permission to the community, open and transparent.
 
