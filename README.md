@@ -104,3 +104,25 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
     Assume that a user provides one-way liquidity of US $10,000, the total amount of lock-up is US $5 million, and the remaining amount of ore in the mine pool is 1 million, and the daily settlement income, the user can get 5.4795DGE per day.
     
     At the same time, the user will also receive 123.46USDT, therefore, this mining mode is called “dual-engine” mining.
+
+* Elastic supply mechanism
+
+    The core mechanism of DGEFI is the price elasticity mechanism of DGE tokens, meaning It means that the total supply of DGE tokens is not fixed, but automatically adjusts the supply of tokens periodically. Smart protocol will be based on the net value of DGE NVDGEThe growth rate of, Rebase will be carried out every 12 hours, the flexible supply of tokens will be based on the market situation, in the adjustment, the proportion of the user’s currency will not change, will not be diluted.
+Rebases is carried out according to the growth range of specific DGE’s net value of tokens. The design idea is that the nominal net value of tokens will steadily increase with the passage of time, thus promoting the market price of DGE to rise. Every time the net value of DGE increases by more than 30%, Rebase will be triggered within 12 hours. Since the value of DGE is measured by CNY, the net value of DGE is also measured by CNY.
+    
+    For example, in the initial liquidity pool, there are 30W in DGE pool and 100 in ETH pool, then the net value of DGE at this time is:
+1 NV≈ 0.000333 ETH, assuming 1 ETH = 3000 CNY, then 1 NV≈ 1 CNY, when the market price has been running for 12 hours, the net value of DGE becomes 1 NV≈ 1.3 CNY, that is to say, the net value of DGE increases by 30% within 12 hours, which triggers the Rebase mechanism. According to the initial circulation of 100W DGE, this Rebase will generate 10% increment, that is, 100,000 DGE, each coin-holding address will automatically receive 10% compensation for the amount of coins held.
+Similarly, when the net value of DGE decreases by 30% within 12 hours, the Rebase mechanism is also triggered, which will reduce the supply by 10%.
+For example, the total amount of the current Ethereum DGE pool is 110,000, and the net value of DGE is from 1 NV= 1.3 CNY, and after 12 hours of market operation, its net value dropped to 1 NV= 0.91 CNY, then the rebase mechanism is triggered, that is, the total market supply is reduced by 10%. That is to say, from 110W DGE to 11W DGE, the total supply dropped to 990,000 DGE. This is, due to the decrease of supply, its intrinsic value has increased.
+    
+    The formula of flexible supply inflation: (1+10%)^n * Total remaining amount of initial tokens;
+    (n refers to the number of Rebase inflation). 
+    Flexible supply deflation formula: (1-10%)^n * Total remaining amount of initial tokens;
+    (n refers to the number of times Rebase is removed).
+
+    Flexible tokens will automatically adjust the market supply of DGE according to the change of the underlying number of DGE tokens to ensure that the intrinsic value of DGE tokens will not collapse. Moreover, with the passage of time, the internal value of the distributed entity assets managed by DGE will increase steadily, which makes the market price of DGE also rise.
+
+    To sum up, the elastic supply system of DGE determines the market supply of DGE according to the change of its intrinsic value rather than its market price. This kind of design pays more attention to the intrinsic value of DGE tokens than just the market price of DGE. Because DGE itself is not valuable, the significance of DGE’s generation and circulation lies in its better service to the global green energy entity industry through this mechanism.
+   
+    Therefore, DGE is like a kind of fund product of global new energy industry, which has its underlying assets and funds, and through a series of operations, it increases the underlying assets and funds, so as to make DGE’s net value rise steadily, at the same time, it will also make its market price rise continuously.
+
