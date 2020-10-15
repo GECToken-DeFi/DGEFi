@@ -50,6 +50,7 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
            (NV refers to NetValue, that is, net value, unit is ETH/DGE, S refers to Supply, that is, the Supply of tokens)
            
 * Mining pool design
+    
     The mine pool of DGE also adopts the elastic supply mechanism, that is, the supply of mine pool is proportional to the amount of lock-in of liquidity. That is to say, each flow input will generate 50% of the flow into ore and put it into the mine pool. However, the remaining amount of ore in the mine pool will remain unchanged for each reduction or zero increase of the flow. The purpose of this design is to ensure that DGE will not depreciate excessively.
     Mine Pool Supply S(MiningPool) = Σ(SN) * 50%)+ S(0)
     Σ(SN) Refers to the total amount of the forward purchase transaction DGE on that day, S(0)Refers to the initial mining pool.
@@ -61,10 +62,12 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
     Initial mining pool is set to: 50000 DGE
 
 * Design to ecological pool
+    
     The ecological transaction pool will be gradually established. It is expected that transaction pairs will be set up in Uniswap DEX and Sushiswap DEX respectively. After that, transaction pairs such as HT and DAI will be activated one after another. And will gradually expand to ecological communities such as Defis and Polkadot.
 
 * Advantages of DGE
-~ Supported by underlying physical assets, the benefits are more real and stable.
+
+    ~ Supported by underlying physical assets, the benefits are more real and stable.
 ~ Flexible supply system, no team reservation, no pre-mining. Follow the principle of more work and more gain to ensure the benefits of mining.
 ~ Complete on-chain governance, permission to the community, open and transparent.
 
