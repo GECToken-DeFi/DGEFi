@@ -128,5 +128,5 @@ For example, now the total amount of the DGE tokens is 110W in the pool, and the
 
     To sum up, the elastic supply system of DGE determines the market supply of DGE according to the change of its intrinsic value rather than its market price. This kind of design pays more attention to the intrinsic value of DGE tokens than just the market price of DGE. Because DGE itself is not valuable, the significance of DGE’s generation and circulation lies in its better service to the global green energy entity industry through this mechanism.
    
-    Therefore, DGE is like a kind of fund product of global new energy industry, which has its underlying assets and funds, and through a series of operations, it increases the underlying assets and funds, so as to make DGE’s net value rise steadily, at the same time, it will also make its market price rise continuously.
+    Therefore, DGE is like a kind of fund product of global new energy industry, which has its underlying assets and capitals, and through a series of operations, it increases the underlying assets and funds, so as to make DGE’s net value rise steadily, at the same time, it will also make its market price rise continuously.
 
