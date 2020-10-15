@@ -117,8 +117,11 @@ Rebases is carried out according to the growth range of specific DGE’s net val
 For example, now the total amount of the DGE tokens is 110W in the pool, and the net value of DGE is from 1 NV= 1.3 CNY, and after 12 hours of market operation, its net value dropped to 1 NV= 0.91 CNY, then the rebase mechanism is triggered also, that is, the total market supply is reduced by 10%. That is to say, from total supply of 110W DGE tokens dropped to 990,000 DGE tokens. This is, due to the decrease of supply, its intrinsic value has increased.
 
     The formula of flexible supply inflation: (1+10%)^n * Total remaining amount of initial tokens;
+    
     (n refers to the number of Rebase inflation). 
-    Flexible supply deflation formula: (1-10%)^n * Total remaining amount of initial tokens;
+    
+    Flexible supply deflation formula:  (1-10%)^n * Total remaining amount of initial tokens;
+    
     (n refers to the number of times Rebase is removed).
 
     Flexible tokens will automatically adjust the market supply of DGE according to the change of the underlying number of DGE tokens to ensure that the intrinsic value of DGE tokens will not collapse. Moreover, with the passage of time, the internal value of the distributed entity assets managed by DGE will increase steadily, which makes the market price of DGE also rise.
