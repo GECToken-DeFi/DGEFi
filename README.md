@@ -130,3 +130,43 @@ For example, now the total amount of the DGE tokens is 110W in the pool, and the
    
     Therefore, DGE is like a kind of fund product of global new energy industry, which has its underlying assets and capitals, and through a series of operations, it increases the underlying assets and capitals, so as to make DGE’s net value rise steadily, at the same time, it will also make its market price rise continuously.
 
+# Governance
+* Overview
+
+  DGEFI is a decentralized financial agreement dedicated to the governance of distributed green energy entity assets. The control of this agreement will be handed over to the global green energy autonomy (DAO) organization, namely the DGE token holder, which means that the update of the agreement and fund management can only be carried out with the approval of the DGE holder.
+
+  Governance methods The governance process is through the website governance interface ( Initiate suggestions ) button to link to a third-party forum (Snapshot) First, submit a proposal for discussion. If the community expresses interest in the proposal and discusses and modifies the proposal, the proposal will be submitted (Snapshot) . The Out-of-chain governance, where DGE token holders can use their balance of tokens to vote.
+
+   If your proposal passed on the (Snapshot), then no code needs to be executed, that is, the approved operation can be taken.
+
+   If you need to deploy the code, the code will be reviewed when necessary, and then suggestions will be made through on-chain governance. At that time, the token holder will vote again to deploy the code.
+
+* Time limit
+
+  Forum discussion: 1-3 days
+
+  Outside-chain (Snapshot) voting: 3 days
+
+  Online voting: 2 days
+
+  Execution time locked: 12 hours
+
+* About proposal initiation, deployment and execution
+
+  Initiator of the proposal: the holder must have 50,000 DGE tokens before he can go to a third-party forum (Snapshot) On;
+
+  Proposal deployment: only authorized by Master-control-contract that addresses can be deployed;
+
+  Implementation of the proposal: for security reasons, only the owner of Master-control-contract has the right to enable execution.
+
+* About entrustment
+
+  The composite governance module requires users to join the governance. In order to qualify their tokens for on-chain voting, DGE token holders can vote by themselves or entrust the other party to initiate a proposal or vote on the proposal. You can use the authorization interface of dgefi.finance to perform operations. If you are familiar with the code, you can also use etherscan to perform authorization.
+
+* Legal votes
+
+  The legal number of votes for proposals and executions on the chain is based on the proportion of valid votes that are eligible for voting and participate in voting to the total number of votes, the number of tokens that have voted is not affected by the number of inflated votes generated during this period or the number of votes reduced due to deflation.
+
+  To submit a new proposal, the user must entrust 50,000 DGE tokens to the governance.sol protocol. During the proposal period, the governance protocol will lock these proposal tokens for three days. Sponsors themselves cannot vote for their own proposals.
+
+  In order for the proposal to pass and be deployed and executed on the chain, it must be that the number of votes in favor is greater than the number of votes against.
