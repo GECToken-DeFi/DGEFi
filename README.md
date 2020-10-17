@@ -65,7 +65,7 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
     
     Daily mining earnings = n / 365 * {S(invest)/S(liquidity) * S(MiningPool)}；
     
-    Annual income of mining: F= S(MiningPool) / S(liquidity) * P(DGE)；
+    APY: F= S(MiningPool) / S(liquidity) * P(DGE)；
     
     Initial mining pool is set to: 50000 DGE
 
