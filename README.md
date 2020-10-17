@@ -1,4 +1,20 @@
 # DGEFI（Distributed Green Energy Finance Protocol）
+
+  DGEFI is an innovative decentralized financial agreement and an innovation in programmable currency and community governance. It is built by a set of DeFi intelligent protocols, thus forming a bank-like business. All intelligent protocols of decentralized finance are deployed and implemented by GBank's professional technicians and financial professionals on Ethereum. Aim to create:
+
+~ Flexible Supply to seek steady growth in the ultimate intrinsic value of digital tokens；
+
+~ Manageable fund products to further support the stability of the intrinsic value of fund shares；
+
+~ Complete on-chain governance to achieve decentralized and trust-free financial derivatives；
+
+~ Fair distribution mechanism to encourage key community members to actively master governance；
+
+  DGE is the token of DGEFI agreement, one DGE is equal to one fund share, and the total number of initial issuance is 1 million, that is, 1 million DGE. The initial value of one fund share is zero. The core of DGEFI is an elastic supply encryption digital cash mechanism, which will inflate and reduce its supply according to market conditions. Its goal is to increase or decrease the underlying assets, if the intrinsic value of the fund shares represented by DGE increases or decreases by 30%, the supply of DGE will inflate or shrink by 10%.
+
+  This robust mechanism includes a supplement to the existing elastic supply model (such as Ampleforth). A part of each inflation expansion is used to purchase a set of digital assets with higher returns and lower risks, and add it to the bottom liquidity fund bank of DGE, which is managed by DGE community.
+
+  We built DGE as the lowest feasible experimental digital cash, and when it was officially released, the price of DGE token was zero. After deployment, it depends entirely on the value of DGE's underlying assets to determine its market price and future governance direction. We will also use branches (snapshots) of the composite governance module to ensure that all updates to the DGEFI protocol are completed through community voting and are completely executed on the chain.
 # DGEFI target
 To Become the first green digital encryption Bank based on blockchain technology, and provide supporting for global distributed green energy entities
 # DGEFI official website
