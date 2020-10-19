@@ -157,11 +157,13 @@ DGEFIAgreement is a decentralized financial agreement established on Ethereum. D
 
 ## underlying reserve assets
 * Overview
-  DGEFI protocol is a group of decentralized intelligent financial protocols. Its underlying assets are composed of high-activity digital financial products and can be cashed at any time. The underlying asset library of DGEFI protocol is completely controlled by the DGE token holder and can provide various governance functions to enable the DGE token holder to obtain higher benefits.
+  
+   DGEFI protocol is a group of decentralized intelligent financial protocols. Its underlying assets are composed of high-activity digital financial products and can be cashed at any time. The underlying asset library of DGEFI protocol is completely controlled by the DGE token holder and can provide various governance functions to enable the DGE token holder to obtain higher benefits.
    
    Because the underlying asset bank has the function of high realizable, in fact, it is also used as the reserve for GBank, so it can provide a reference for the intrinsic value of DGE. Just like fund products, with the appreciation of the digital wealth management products invested by the fund, the value of the underlying assets also increases. It can also be used to generate additional benefits for the agreement, therefore, the underlying asset library can still maintain the stability of its internal value after the base change mechanism. The DGEFI protocol initially specifies the stable currency DAI with higher returns as the initial reserve asset of the underlying asset library. After that, as the market changes and the community discusses and decides which digital agreement asset to use as the underlying reserve asset of DGE.
 
 * Other cases
+  
   In addition to the intrinsic value effect and DAI revenue, the underlying reserve assets can also be managed and deployed in various other ways that the holder of the DGE token considers appropriate. This may include diversifying assets in other encrypted currencies, providing funds for early agreements, paying organizational costs, and increasing liquidity in the new DGEFI financial agreement.
 
 ## Governance
