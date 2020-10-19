@@ -37,7 +37,7 @@ To Become the first green digital encryption Bank based on blockchain technology
 
 ## Twitte    
 
-[https://twitter.com/davy2gect](https://twitter.com/davy2gect)
+[https://twitter.com/DgefiProtocols](https://twitter.com/DgefiProtocols)
 
 ## Discard
 
