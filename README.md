@@ -1,5 +1,5 @@
 # DGEFI Protocols
-An innovative decentralized finance protocol for Distributed Green Energy
+An innovative decentralized finance protocol for Global Distributed Green Energy Autonomous Community 
   
 ## Brief to DGEFI Protocols 
 
