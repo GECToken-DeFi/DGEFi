@@ -34,7 +34,7 @@ To Become the first green digital encryption Bank based on blockchain technology
 
 [https://github.com/GECToken-DeFi](https://github.com/GECToken-DeFi)
 
-## Twitter
+## Twitte    
 
 [https://twitter.com/davy2gect](https://twitter.com/davy2gect)
 
@@ -74,7 +74,10 @@ DGEFIAgreement is a decentralized financial agreement established on Ethereum. D
 
    In order to ensure the intrinsic value of DGE tokens, DGE tokens do not pre-mine or reserve team tokens. And DGE tokens adopt the flexible supply mode, according to the market liquidity situation, flexible inflation or deflation of DGE tokens. The total number of DGE tokens publicly issued for the liquidity pool for the first time is 1 million (including 50000 in the founding mine pool).
 
-  At the same time, DGE in the mining pool will use the net value of DGE in the liquidity pool as the standard of reference elastic supply. That is: NV\(DEG\)= S\(ETH\)/S\(DGE\)   \(NV refers to NetValue, that is, net value, unit is ETH/DGE, S refers to Supply, that is, the Supply of tokens\)
+  At the same time, DGE in the mining pool will use the net value of DGE in the liquidity pool as the standard of reference elastic supply. That is: 
+  
+  NV(DEG)= S(ETH)/S(DGE\)   
+  (NV refers to NetValue, that is, net value, unit is ETH/DGE, S refers to Supply, that is, the Supply of tokens)
 
 * Mining pool design
 
