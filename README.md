@@ -120,7 +120,7 @@ The mining revenue of DGE mining pool is settled on a daily basis, which is affe
 
 It can be seen from the above formula that when the market price of DGE increases or the total amount of liquidity fund pool rises, its annual income will increase.
 
-Chuangshi mine pool is set to: 50000 DGE
+Initiated mining pool is set to: 50000 DGE
 
 Since cDGE is an LP Deposit with endorsement of underlying assets, cDGE can be used as collateral to lend other digital assets, and its mortgage rate will be automatically calculated according to the intelligent agreement.
 
