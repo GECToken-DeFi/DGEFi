@@ -3,7 +3,7 @@ An innovative decentralized finance protocol for Global Distributed Green Energy
   
 ## Brief to DGEFI Protocols 
 
-DGEFI is an innovative decentralized financial agreement and an innovation in programmable currency and community governance. It is built by a set of DeFi intelligent protocols, thus forming a bank-like business. All intelligent protocols of decentralized finance are deployed and implemented by GBank's professional technicians and financial professionals on Ethereum. Aim to create:
+An innovative decentralized finance protocol for Global Distributed Green Energy Autonomous Community. It is built by a set of DeFi intelligent protocols, thus forming a bank-like business. All intelligent protocols of decentralized finance are deployed and implemented by GBank's professional technicians and financial professionals on Ethereum. Aim to create:
 
 >> Flexible Supply to seek steady growth in the ultimate intrinsic value of digital tokens；
 
