@@ -5,13 +5,13 @@ An innovative decentralized finance protocol for Global Distributed Green Energy
 
 DGEFI is an innovative decentralized financial agreement and an innovation in programmable currency and community governance. It is built by a set of DeFi intelligent protocols, thus forming a bank-like business. All intelligent protocols of decentralized finance are deployed and implemented by GBank's professional technicians and financial professionals on Ethereum. Aim to create:
 
-~ Flexible Supply to seek steady growth in the ultimate intrinsic value of digital tokens；
+>> Flexible Supply to seek steady growth in the ultimate intrinsic value of digital tokens；
 
-~ Manageable fund products to further support the stability of the intrinsic value of fund shares；
+>> Manageable fund products to further support the stability of the intrinsic value of fund shares；
 
-~ Complete on-chain governance to achieve decentralized and trust-free financial derivatives；
+>> Complete on-chain governance to achieve decentralized and trust-free financial derivatives；
 
-~ Fair distribution mechanism to encourage key community members to actively master governance；
+>> Fair distribution mechanism to encourage key community members to actively master governance；
 
 DGE is the token of DGEFI agreement, one DGE is equal to one fund share, and the total number of initial issuance is 1 million, that is, 1 million DGE. The initial value of one fund share is zero. The core of DGEFI is an elastic supply encryption digital cash mechanism, which will inflate and reduce its supply according to market conditions. Its goal is to increase or decrease the underlying assets, if the intrinsic value of the fund shares represented by DGE increases or decreases by 30%, the supply of DGE will inflate or shrink by 10%.
 
