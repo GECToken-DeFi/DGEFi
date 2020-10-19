@@ -137,7 +137,7 @@ https://camo.githubusercontent.com/183bad682bfcad74c6b51cdd72c74489a5ab8e64/6874
 
   Mining earnings = S\(invest\) / S\(liquidity\) \* S\(MiningPool\);
 
-  Settlement by day = n / 365  _{S\(invest\) / S\(liquidity\)_  S\(MiningPool\)};
+  Settlement by day = n / 365 * {S\(invest\) / S\(liquidity\) * S\(MiningPool\)};
 
   Assume that a user provides one-way liquidity of US $10,000, the total amount of lock-up is US $5 million, and the remaining amount of ore in the mine pool is 1 million, and the daily settlement income, the user can get 5.4795DGE per day.
 
