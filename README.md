@@ -41,7 +41,7 @@ To Become the first green digital encryption Bank based on blockchain technology
 
 ## Discard
 
-[https://discord.gg/vXXTtC7](https://discord.gg/vXXTtC7)
+[https://discord.gg/mD7Wz3E](https://discord.gg/mD7Wz3E)
 
 
 ## Design to ecological pool
