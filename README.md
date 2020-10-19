@@ -99,7 +99,7 @@ If users provide one-way liquidity for DGE’s funds pool, they can obtain LP De
 
 The mining revenue of DGE mining pool is settled on a daily basis, which is affected by several important factors.F(apy)[S(MiningPool),S(liquidity),P(DGE)]. P(DGE) is the price of the immediate DGE, then:
 
-> Annual income of miningF(apy) = S(MiningPool) /S(liquidity) * P(DGE)
+> Annual income of mining F(apy) = S(MiningPool) /S(liquidity) * P(DGE)
 
 It can be seen from the above formula that when the market price of DGE increases or the total amount of liquidity fund pool rises, its annual income will increase.
 
@@ -132,7 +132,7 @@ For example, if a dividend of 20000 USDT is provided in the current dividend poo
 
 30-day USDT bonus for a user = 10000/135,000 * 30/365 * 20000 ≈ 123.46 USDT;
 
-> Settlement by day = n / 365 * {S(invest) / S(liquidity) * S(MiningPool)};
+> Settlement mining income daily = n / 365 * {S(invest) / S(liquidity) * S(MiningPool)};
 
 Assume that a user provides one-way liquidity of US $10,000, the total amount of lock-up is US $5 million, and the remaining amount of ore in the mine pool is 1 million, and the daily settlement income, the user can get 5.4795DGE per day.
 
