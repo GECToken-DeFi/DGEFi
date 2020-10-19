@@ -132,11 +132,11 @@ https://camo.githubusercontent.com/183bad682bfcad74c6b51cdd72c74489a5ab8e64/6874
 
   30-day USDT bonus for a user = 10000/135,000 * 30/365 * 20000 ≈ 123.46 USDT;
 
-  Because DGE’s mine pool adopts the elastic supply mechanism, that is, the supply of mine pool is proportional to the amount of lock-in of liquidity. That is to say, each flow input will generate 50% of the flow into ore and put it into the mine pool. However, the remaining amount of ore in the mine pool will remain unchanged for each reduction or zero increase of the flow.
+  Because DGE’s mining pool adopts the elastic supply mechanism, that is, the supply of mine pool is proportional to the amount of lock-in of liquidity. That is to say, each flow input will generate 50% of the flow into ore and put it into the mine pool. However, the remaining amount of ore in the mine pool will remain unchanged for each reduction or zero increase of the flow.
 
   Mine Pool Supply S(MiningPool) = Σ(SN) * 50% + S(0);
 
-  Σ(SN) Refers to the total number of DGE transactions generated on the current day.,S(0)Refers to the remaining amount in the initial mining pool);
+  Σ(SN) Refers to the total number of DGE transactions generated on the current day.,S(0)Refers to the remaining amount in the initial mining pool;
 
   Mining earnings = S(invest) / S(liquidity) * S(MiningPool);
 
