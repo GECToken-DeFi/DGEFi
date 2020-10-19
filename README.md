@@ -71,7 +71,7 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
     
     Mine Pool Supply S(MiningPool) = Σ(SN) * 50%)+ S(0)
     
-    Σ(SN) Refers to the total amount of the forward purchase transaction DGE on that day, S(0)Refers to the initial mining pool.
+    Σ(SN) Refers to the total amount of the forward purchase transaction DGE on that day, S(0)Refers to the remaining amount in the initial mining pool.
     
     Mining earnings = S(invest)/S(liquidity) * S(MiningPool)
     
@@ -111,7 +111,7 @@ In the DeFi era,Liquidity mining is very popular,The principle of the machine gu
     
     Mine Pool Supply S(MiningPool) = Σ(SN) * 50% + S(0);
     
-    Σ(SN) Refers to the total number of DGE transactions generated on the current day.,S(0)Refers to the initial mining pool);
+    Σ(SN) Refers to the total number of DGE transactions generated on the current day.,S(0)Refers to the remaining amount in the initial mining pool);
     
     Mining earnings = S(invest) / S(liquidity) * S(MiningPool);
     
