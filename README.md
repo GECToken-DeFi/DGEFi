@@ -22,7 +22,7 @@ DGEFI is an innovative decentralized financial protocol and an innovative attemp
 ## DGEFi Target
 It aims to become the first community autonomous green digital encryption Bank based on blockchain technology, providing support for the entity assets of global distributed green energy autonomous communities.
 
-## Details at  our-file-website: https://documents.dgefi.finance/
+## Details at   [Our-Files-website](https://documents.dgefi.finance/)
 
 ## Contributions
 If you are interested to our project and willing to contribute feel free to join us at davy.zhou@gectoken.cn or submit PR to the develop branch. If an issue has the tag assigned means it has already been assigned to someone.
