@@ -1,7 +1,7 @@
 # DGEFi Protocols
 A decentralized financial protocol built specially for the global distributed Green Energy Community
 
-### <em>Read this file in other languages: [English](https://github.com/GECToken-DeFi/DGEFi/blob/master/README.md),[简体中文]()</em>
+### <em>Read this file in other languages: [English](https://github.com/GECToken-DeFi/DGEFi/blob/master/README.md),[简体中文](https://github.com/GECToken-DeFi/DGEFi/blob/master/Readme.cn.md)</em>
   
 ## Brief to DGEFI Protocols 
 
