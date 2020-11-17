@@ -2,7 +2,7 @@
 # DGEFi协议
 专为全球分布式绿色能源社区构建的去中心化金融协议
 
-### <em>阅读此文件用：[English](),[简体中文](https://github.com/GECToken-DeFi/DGEFi/blob/master/Readme.cn.md)</em>
+### <em>阅读此文件用：[English](https://github.com/GECToken-DeFi/DGEFi/blob/master/README.md),[简体中文](https://github.com/GECToken-DeFi/DGEFi/blob/master/Readme.cn.md)</em>
 
 # DGEFI协议简介
 <code>DGEFI协议</code>是一项创新的去中心化金融协议，是对可编程货币和社区治理的创新尝试。它由一组<code>DeFi</code>智能协议构建，从而构建了类似于银行的存贷款业务（即GBank的主要业务）。所有分散金融的智能协议都通过GBank社区进行投票，部署和重新执行。协议代码的安全性由第三方审核。创造：
