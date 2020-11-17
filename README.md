@@ -33,4 +33,4 @@ For any other questions or bugs that you like to submit please join [the chat](h
 
 ## License
 
-[MIT](https://github.com/GECToken-DeFi/DGEFi-Protocols/blob/main/LICENSE)
+[MIT](https://github.com/GECToken-DeFi/DGEFi/blob/master/LICENSE)
