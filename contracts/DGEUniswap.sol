@@ -84,7 +84,7 @@ contract DGEUniswap is Authority {
     function payEarningDGE(uint256 _ethDaiAmount, uint256 _dgeAmount) internal returns(bool _success) {
         //打利息dge
         IDGE idge = IDGE(dgeContractAddr);
-        uint256 _value = payEarningDgeAllRateToSender(_dgeAmount).mul(_ethDaiAmount).mul(_ethDaiAmount).div(_dgeAmount);
+        uint256 _value = payEarningDgeAllRateToSender(_dgeAmount).mul(_ethDaiAmount).mul(5).mul(_ethDaiAmount).div(_dgeAmount).div(100000000);
         return idge.transfer(msg.sender, _value);
     }
 
