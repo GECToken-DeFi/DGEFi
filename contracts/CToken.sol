@@ -12,7 +12,7 @@ Authority {
     event BurnTokenSuccess(address indexed _from, address indexed _to, uint256 _value);
     //初始化代币参数
     constructor(uint256 _initialAmount, string memory _tokenName, uint8 _decimalUnits, string memory _tokenSymbol) public {
-        totalSupply = _initialAmount; //300万
+        totalSupply = _initialAmount; //0
         name = _tokenName;
         symbol = _tokenSymbol;
         decimals = _decimalUnits;
@@ -29,9 +29,9 @@ Authority {
     struct cTokenOneInfo {
         uint256 balanceOf;
         uint256 creatTime; //创建时间
-        uint256 rate; //生成时的利率,单位为 1,000,000倍，即 8000= 8000/1000000=0.8%,大写
+        uint256 rate; //生成时的利率,单位为 1,000,000倍，即 5000= 5000/1000000=0.005%,大写
     }
-    uint256 rate = 273; //最终返利计算时,乘以参数(5*10**(-8)),实时利率,//生成时的利率,单位为 1,000,000倍，即 8000= 8000/1000000=0.8%,大写
+    uint256 rate = 273; //最终返利计算时,乘以参数(5*10**(-8)),实时利率,//生成时的利率,单位为 1,000,000倍，即 5000= 5000/1000000=0.005%,大写
     function getName() public view returns(string memory) {
         return name;
     }
