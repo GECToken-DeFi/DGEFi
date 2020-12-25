@@ -13,7 +13,7 @@ A decentralized financial protocol built specially for the global distributed Gr
 
 > Linked to global green energy entity assets, thus realizing global green energy autonomous communities.
 
-> DGE is a standard-token of <code>DGEFi protocol</code>, with a total of 1 million shares issued for the first time, that is, 1 million <code>DGEs</code> issued initially. 
+> DGE is a standard-token of <code>DGEFi protocol</code>, without total issuance initially, and the liquidity of DGE is completely determined by the market. There is no team reservation and sharing, no pre-mining pools. 
 
 > The core of <code>DGEFi protocol</code> is a flexible supply encryption digital currency mechanism, which will inflate and reduce its supply according to market conditions. Its goal is to increase or decrease the underlying digital assets, the intrinsic value represented by each <code>DGE</code> will not depreciate excessively due to inflation.
 
