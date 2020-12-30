@@ -1,6 +1,6 @@
-pragma solidity ^0.5.17;
+pragma solidity >= 0.6.2 < 0.7.0;
 
-// Original file came from Compound: https://github.com/compound-finance/compound-protocol/blob/master/contracts/Timelock.sol
+// GET from Compound: https://github.com/compound-finance/compound-protocol/blob/master/contracts/Timelock.sol
 
 
 // Original audit: https://blog.openzeppelin.com/compound-finance-patch-audit/
@@ -11,7 +11,7 @@ pragma solidity ^0.5.17;
 // Changes made by YAM after audit:
 //    Formatting, naming, & uint256 instead of uint
 
-import "../lib/SafeMath.sol";
+import "./SafeMath.sol";
 
 contract Timelock {
     using SafeMath for uint256;
@@ -29,11 +29,11 @@ contract Timelock {
     event QueueTransaction(bytes32 indexed txHash, address indexed target, uint256 value, string signature, bytes data, uint256 eta);
 
     /// @notice the length of time after the delay has passed that a transaction can be executed
-    uint256 public constant GRACE_PERIOD = 14 days;
+    uint256 public constant GRACE_PERIOD = 7 days;
     /// @notice the minimum length of the timelock delay
     uint256 public constant MINIMUM_DELAY = 12 hours + 2*60*15; // have to be present for 2 rebases
     /// @notice the maximum length of the timelock delay
-    uint256 public constant MAXIMUM_DELAY = 30 days;
+    uint256 public constant MAXIMUM_DELAY = 14 days;
 
     address public admin;
     address public pendingAdmin;
