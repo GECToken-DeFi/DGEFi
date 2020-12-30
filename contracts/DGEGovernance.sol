@@ -29,7 +29,7 @@ contract Governance {
     string public constant name = "DGE Governance";
 
     /// @notice The number of votes in support of a proposal required in order for a quorum to be reached and for a vote to succeed
-    function quorumVotes() public view returns (uint256) { return SafeMath.div(SafeMath.mul(DGE.initSupply(), 5), 100); } // 5% of DGE
+    function quorumVotes() public view returns (uint256) { return SafeMath.div(SafeMath.mul(DGE.initSupply(), 4), 100); } // 4% of DGE
 
     /// @notice The number of votes required in order for a voter to become a proposer
     function proposalThreshold() public view returns (uint256) { return SafeMath.div(DGE.initSupply(), 100); } // 1% of DGE
