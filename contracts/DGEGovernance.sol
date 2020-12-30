@@ -20,7 +20,7 @@ pragma experimental ABIEncoderV2;
 // Changes made by DGE after audit:
 //    Formatting, naming, & uint256 instead of uint
 //    Since DGE supply changes, updated quorum & proposal requirements
-//    If any uint96, changed to uint256 to match DGE as opposed to comp
+//    If any uint16, changed to uint256 to match DGE as opposed to comp
 
 import "./SafeMath.sol";
 
